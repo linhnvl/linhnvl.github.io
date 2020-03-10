@@ -9,8 +9,7 @@ kiến thức, hiểu biết của mình với người khác; đồng thời c�
 một công cụ quan trọng để PR lúc xin việc :D.
 Bây giờ mình sẽ dạo qua một số các công cụ, nền tảng hỗ trợ viết blog hiện nay để chọn ra cái ưng ý nhất.
 
-**Blogspot*<br/>*
-
+**Blogspot**<br/>
 Còn có tên gọi khác là Blogger. Là một trong những công cụ đầu tiên hỗ trợ viết blog, được cung cấp bởi Google.
 
 ###Ưu điểm: 
