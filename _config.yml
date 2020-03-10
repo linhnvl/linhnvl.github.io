@@ -64,8 +64,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "nguyenvanlinh12d3@gmail.com"
-  github: github.com/linhnvl
+  github: linhnvl
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -80,10 +79,10 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+  # twitter: true
+  # facebook: true
+  # linkedin: true
 
 # --- Web Statistics Section --- #
 
@@ -120,7 +119,7 @@ share-links-active:
 staticman:
   repository : linhnvl/linhnvl.github.io
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://linhnvl.github.io
+  endpoint   : 
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
