@@ -120,7 +120,7 @@ share-links-active:
 staticman:
   repository : linhnvl/linhnvl.github.io
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://linhnvl.github.io
+  endpoint   : 
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
