@@ -10,9 +10,8 @@ một công cụ quan trọng để PR lúc xin việc :D.
 Bây giờ mình sẽ dạo qua một số các công cụ, nền tảng hỗ trợ viết blog hiện nay để chọn ra cái ưng ý nhất.
 
 **Blogspot**<br/>
-Còn có tên gọi khác là Blogger. Là một trong những công cụ đầu tiên hỗ trợ viết blog, được cung cấp bởi Google.
-
-###Ưu điểm: 
+Còn có tên gọi khác là Blogger. Là một trong những công cụ đầu tiên hỗ trợ viết blog, được cung cấp bởi Google.<br/>
+###Ưu điểm:<br/>
 - Nhanh: Blogspot (kể cả hình ảnh) được host trên Google Cloud kết hợp với theme đơn giản nên blog chạy rất nhanh.
 - Đơn giản: Việc tạo blog và thiết lập đều rất đơn giản, chỉcần vài phút làm quen. 
 - Miễn Phí. Blogspot miễn phí tất cả, không có lựa chọn nào là trả phí trừ khi mua theme từ bên thứ 3.
