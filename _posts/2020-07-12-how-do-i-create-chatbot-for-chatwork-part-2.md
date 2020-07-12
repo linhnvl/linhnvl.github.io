@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tôi đã tạo chatbot cho Chatwork như thế nào (Phần 2)?
-image: /img/giphy.png
+image: /img/2020-07-12/giphy.png
 ---
 
 Sau khi đã tạo được một con bot để nhắc nhở công việc ở phần trước, ở phần này mình sẽ thêm tính năng để cho con Bot bớt "ngu" hơn :v
@@ -33,6 +33,6 @@ Và đây là thành quả :D
 ![Image 5](/img/2020-07-12/cw_2.png)
 
 
-Github: https://github.com/linhnvl/Chatphy
+Github: [Chatphy](https://github.com/linhnvl/Chatphy)
 
 Happy coding !!!
