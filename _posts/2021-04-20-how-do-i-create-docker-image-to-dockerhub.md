@@ -21,6 +21,6 @@ Sau đó chỉ cần click vào "Save and Build" và chờ đợi một chút l�
 
 Đây là thành quả
 
-![Image 2](/img/2021-04-20/linking-github.png)
+![Image 2](/img/2021-04-20/build-success.png)
 
 Happy coding !!!
